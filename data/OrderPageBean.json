@@ -1,0 +1,73 @@
+{
+  "orderbars": [
+    {
+      "hasMsg": true,
+      "msgNumber": 1,
+      "icon": "http://192.168.45.253:8080/MeiTuan/image/mine/order_ic_vector_unpaid_new.png",
+      "title": "待付款"
+    },
+    {
+      "hasMsg": true,
+      "msgNumber": 0,
+      "icon": "http://192.168.45.253:8080/MeiTuan/image/mine/order_ic_vector_unused_new.png",
+      "title": "待使用"
+    },
+    {
+      "hasMsg": true,
+      "msgNumber": 0,
+      "icon": "http://192.168.45.253:8080/MeiTuan/image/mine/order_ic_vector_uncomment_new.png",
+      "title": "待评价"
+    },
+    {
+      "hasMsg": true,
+      "msgNumber": 0,
+      "icon": "http://192.168.45.253:8080/MeiTuan/image/mine/order_ic_vector_refund_new.png",
+      "title": "退款/销后"
+    }
+  ],
+  "nearOrder": [
+    {
+      "starIcon": "http://192.168.45.253:8080/MeiTuan/image/near/trip_oversea_star20.png",
+      "tagIcons": [
+        "http://192.168.45.253:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+      ],
+      "icon": "http://192.168.45.253:8080/MeiTuan/image/near/pic4.jpg",
+      "storeName": "百家快捷酒店）",
+      "descrption": "经济酒店|棠下",
+      "price": 16.6,
+      "marketPrice": 30,
+      "sales": 2564,
+      "distance": ">1.8km"
+    }
+
+  ],
+  "nearBeans": [
+    {
+      "starIcon": "http://192.168.45.253:8080/MeiTuan/image/near/trip_oversea_star40.png",
+      "tagIcons": [
+        "http://192.168.45.253:8080/MeiTuan/image/near/favorite_ic_booking.png"
+      ],
+      "icon": "http://192.168.45.253:8080/MeiTuan/image/near/pic7.jpg",
+      "storeName": "龙影国际影城",
+      "descrption": "电影院|棠下",
+      "price": 19,
+      "marketPrice": 26.5,
+      "sales": 514,
+      "distance": "<3.6km"
+    },
+    {
+      "starIcon": "http://192.168.45.253:8080/MeiTuan/image/near/trip_oversea_star50.png",
+      "tagIcons": [
+        "http://192.168.45.253:8080/MeiTuan/image/near/beauty_ic_discount.png",
+        "http://192.168.45.253:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+      ],
+      "icon": "http://192.168.45.253:8080/MeiTuan/image/near/pic6.jpg",
+      "storeName": "高山理疗官",
+      "descrption": "足疗按摩|海珠",
+      "price": 16.6,
+      "marketPrice": 30,
+      "sales": 2564,
+      "distance": ">1.8km"
+    }
+  ]
+}
